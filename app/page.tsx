@@ -1,11 +1,4 @@
 "use client"
-import React from 'react';
-import BooksPage from "@/components/BooksPage";
-import AboutTheAuthor from "@/components/AboutTheAuthor";
-import HomePage from "@/components/HomePage";
-import ContactPage from "@/components/ContactPage";
-import Footer from "@/components/FooterComp";
-import Header from "@/components/Header";
 
 export default function Home() {
   return (
